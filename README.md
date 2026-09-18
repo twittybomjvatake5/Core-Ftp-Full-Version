@@ -235,4 +235,4 @@ This repository serves as the official landing page for Core FTP. The software i
 **Get the most recent version of Core FTP today!**
 
 ---
-**Last updated:** 2026-09-18 10:47:41 UTC
+**Last updated:** 2026-09-18 14:49:27 UTC
